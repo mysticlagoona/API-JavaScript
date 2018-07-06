@@ -1,1 +1,1 @@
-# API-JavaScript
+API examples in JavaScript
